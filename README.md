@@ -6,4 +6,4 @@
 
 ## Open Notebook file in colab for running with zero setup.  
 
-[Click here to open with Colab](https://colab.research.google.com/github/robinsdeepak/BigBasket-Scrapper/blob/master/Bigbasket_Scrapper.ipynb)
+[Click here to open with Colab](https://colab.research.google.com/drive/1Vb-jPsMSmr68FxRJiw8T-kDerWsPMw93?usp=sharing)
